@@ -1,2 +1,10 @@
-# [163.com]
+# BBC
 127.0.0.1 bbc.com
+# CNN
+127.0.0.1 cnn.com
+#france24
+127.0.0.1 france24.com
+# cbc.ca
+127.0.0.1  www.cbc.ca
+ abc.net.au
+127.0.0.1  abc.net.au
