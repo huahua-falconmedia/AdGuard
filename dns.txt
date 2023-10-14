@@ -1,1 +1,4 @@
-
+# docker
+8.218.62.160 docker.oceanmedia
+# new-system
+8.222.221.51 new-system.oceanmedia
