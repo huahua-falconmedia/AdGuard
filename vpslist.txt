@@ -1,1 +1,8 @@
-huahua-spy-edr0yf.oceanmedia-group.com 
+192.168.10.150 huahua-spy-edr0yf.oceanmedia-group.com
+192.168.10.151 koda-spy-gpuvl1.oceanmedia-group.com
+192.168.10.152 wz-spy-becgwm.oceanmedia-group.com
+192.168.10.153 js-spy-18ztpP.oceanmedia-group.com
+192.168.10.154 xt-spy-106vyo.oceanmedia-group.com
+192.168.10.155 yp-spy-nxheyc.oceanmedia-group.com
+192.168.10.156 kj-spy-n52yp3.oceanmedia-group.com
+192.168.10.157 yl-spy-d0y3je.oceanmedia-group.com
