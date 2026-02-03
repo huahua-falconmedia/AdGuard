@@ -1,0 +1,16 @@
+10.0.0.27 qa2-lowcode-optimize.fal-test.com
+10.0.0.27 nexad-test.falcon-test.com
+10.0.0.28 testtrackingv3.fal-test.com
+10.0.0.28 test2-trackingv3.fal-test.com
+10.0.0.27 blissfulbeautylimited.fal-test.com
+10.0.0.27 postbackv3.fal-test.com
+10.0.0.27 nexad-test.fal-test.com
+10.0.0.28 test3-trackingv3.fal-test.com
+10.0.0.28 test4-trackingv3.fal-test.com
+10.0.0.28 test5-trackingv3.fal-test.com
+10.0.0.27 test-ecommerce.fal-test.com
+10.0.0.27 qa2-system.fal-test.com
+10.0.0.28 test-payment.fal-test.com
+10.0.0.27 test-dataease.fal-test.com
+10.0.0.28 test01-shopping.fal-test.com
+10.0.0.28 test02-shopping.fal-test.com
